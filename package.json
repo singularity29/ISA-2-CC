@@ -1,0 +1,15 @@
+{
+  "name": "student-portfolio-manager",
+  "version": "1.0.0",
+  "description": "A simple student portfolio manager web app using Node.js and Express.",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "author": "Asrita Vakkapatla",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "body-parser": "^1.20.2"
+  }
+}

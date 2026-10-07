@@ -1,0 +1,26 @@
+body {
+  font-family: Arial, sans-serif;
+  padding: 20px;
+  background-color: #f4f4f4;
+}
+
+h1, h2 {
+  color: #333;
+}
+
+form {
+  margin-bottom: 20px;
+}
+
+input, button {
+  padding: 8px;
+  margin: 5px;
+}
+
+#studentList li {
+  background: #fff;
+  padding: 10px;
+  margin: 5px 0;
+  list-style: none;
+  border-left: 5px solid #007bff;
+}
